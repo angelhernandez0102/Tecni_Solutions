@@ -1,7 +1,7 @@
 ﻿# TecniSolutions: Proyecto integrador
-Materia: AWOS
-Maestro: Marco Antonio Ramírez Hernández
-Integrantes del equipo:
+## Materia: AWOS
+## Maestro: Marco Antonio Ramírez Hernández
+## Integrantes del equipo:
 - Yulissa Ortega Cuevas
 - Miguel Ángel Hernández González
 - Orlando Méndez Montes
