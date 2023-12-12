@@ -14,7 +14,7 @@
 - [4. Entorno operativo](#4.Entorno_Operativo)
 - [5. Objetivos del proyecto](#5.Objetivos_del_proyecto)
 - [6. Funcionalidades](#7.Funcionalidades)
-- [7. Reglas de negociacio](#Reglas)
+- [7. Reglas de negocio](#Reglas)
 - [8. Requerimientos funcionales](#Requerimientos_funcionales)
 - [9. Requerimientos no funcionales](#Requerimientos_no_funcionales)
 - [10. Referencias](#12.Referencias)
